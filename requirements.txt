@@ -1,0 +1,10 @@
+fonttools
+matplotlib
+numpy
+opencv-python
+Pillow
+scikit-learn
+tensorboardX
+torch
+torchvision
+tqdm
