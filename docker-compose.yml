@@ -1,0 +1,7 @@
+version: '3.5'
+
+services:
+  env:
+    build: .
+    shm_size: '4gb'
+    command: sleep infinity
