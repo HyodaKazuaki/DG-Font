@@ -161,3 +161,7 @@ cython_debug/
 
 # Docker Compose environment dependency file
 docker-compose-env-dep.yml
+
+# Results and logs
+results
+logs
